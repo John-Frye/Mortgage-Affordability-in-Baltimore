@@ -38,5 +38,5 @@ For residents the majority of low-income residents (i.e. those not in poverty), 
 Additional data on what types of small businesses yield the highest decrease in mortgage affordability would be beneficial. This data could help inform the Department of Housing and Community Development of what types of small business it could target investment towards without significantly increasing the risk of displacement. Further research on the average increases in neighborhood income by small business type could provide additional context to this targeted funding decision. 
 
 ## Step by Step Instructions
-Step by step instructions for how I completed the Python analysis can be accessed via my Google Collaboratory.
-Instructions for the excel analysis can be found here.
+Step by step instructions for how I completed the Python analysis can be accessed [via my Google Collaboratory](https://colab.research.google.com/drive/14BCsiCjGjfqA9FMcVNRgu-9R5d0WUtMw?usp=sharing).
+Instructions for the excel analysis [can be found here](https://github.com/John-Frye/Mortgage-Affordability-in-Baltimore/blob/main/Mortgage_Affordability_Instructions.xlsx).
