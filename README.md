@@ -9,7 +9,7 @@ Does small business investment decrease mortgage affordability and, if so, how c
 
 ## Data Sources and Definitions
 Mortgage Affordability: the percent of home mortgages in a population tract that are affordable to residents.
-Small Business Investment: the average amount of money invested in small businesses in a population tract.
+Small Business Investment: the total amount of money invested in small businesses per 50 businesses in a population tract .
 
 ## Data Analysis
 ### Data Question(s)
