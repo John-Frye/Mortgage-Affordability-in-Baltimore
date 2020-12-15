@@ -8,8 +8,8 @@ Gentrification, or the influx of affluent residents, can increase a neighborhood
 Does small business investment decrease mortgage affordability and, if so, how can economic development plans like the Opportunity Zone program maintain affordable living costs while also pursuing a path of growth? 
 
 ## Data Sources and Definitions
-Mortgage Affordability: the percent of home mortgages in a population tract that are affordable to residents.
-Small Business Investment: the total amount of money invested in small businesses per 50 businesses in a population tract .
+(Mortgage Affordability)[https://github.com/John-Frye/Mortgage-Affordability-in-Baltimore/blob/main/Affordability_Index_-_Mortgage%20(2).csv]: the percent of home mortgages in a population tract that are affordable to residents.
+(Small Business Investment)[https://github.com/John-Frye/Mortgage-Affordability-in-Baltimore/blob/main/Total_Dollar_Amount_Invested_in_Small_Businesses_per_50_Businesses%20(1).csv]: the total amount of money invested in small businesses per 50 businesses in a population tract .
 
 ## Data Analysis
 ### Data Question(s)
