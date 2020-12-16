@@ -1,5 +1,4 @@
-# Mortgage-Affordability-in-Baltimore
-Mortgage affordability in Baltimore over time 
+# Mortgage affordability in Baltimore over time 
 
 ## Background
 Gentrification, or the influx of affluent residents, [can increase a neighborhood's cost of living and drive previous, low income residents from their homes](https://www.cdc.gov/healthyplaces/healthtopics/gentrification.htm). While gentrification often carries a connotation of "outside" wealth displacing a community, there is little research on the effects of investment and wealth generation by a neighborhood's own residents and a similar pattern of displacement. This lack of research could present problems for the Opportunity Zone program, a federal development plan that provides support and investment for small businesses in low-income neighborhoods. An ingress of investment to small, locally owned businesses might increase a neighborhood's household income, but could it also heighten the risk of displacement? Data analysis must establish whether or not a correlation exists between a neighborhood's living costs and the amount of its small business investment. If such a correlation exists, then stakeholders enacting the Opportunity Zone program, like Baltimore City Government, must invest in corresponding schemes aimed at reducing low-income residents' living costs. 
