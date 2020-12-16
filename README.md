@@ -21,7 +21,7 @@ Prior to conducting a data analysis on Python, I cleaned the data for mortgage a
 
 I then uploaded this dataset to Python and averaged the values of each variable per year. Finally, I constructed a dual axis graph on Plotly that modeled how each variable changed over time in Baltimore. 
 
-Insert Graph
+![alt_text](https://github.com/John-Frye/Mortgage-Affordability-in-Baltimore/blob/main/Screen%20Shot%202020-12-16%20at%202.33.18%20PM.png)
 
 From 2016 to 2018, mortgage affordability in Baltimore decreased on average. Conversely, small business investment increased during this time period. 
 
